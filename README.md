@@ -1,6 +1,7 @@
-# golang-chi-simple
+# Golang-chi-practice
 
 A minimal HTTP server built with [Chi](https://github.com/go-chi/chi), demonstrating how the router's core features fit together.
+Documentation: https://go-chi.io/
 
 ## Running the server
 
